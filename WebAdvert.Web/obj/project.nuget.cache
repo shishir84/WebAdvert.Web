@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2F0ULBT9vq/gloSYLCAfS0KOqAQvjlSW3bgr+J8Cb3griBkqaEjAXCYyrApTqzMv5Eyjdx2TyCovpRtpkTAkw==",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\WebAdvert.Web\\WebAdvert.Web\\WebAdvert.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subhra\\.nuget\\packages\\amazon.aspnetcore.identity.cognito\\3.0.0\\amazon.aspnetcore.identity.cognito.3.0.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\amazon.extensions.cognitoauthentication\\2.2.2\\amazon.extensions.cognitoauthentication.2.2.2.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\awssdk.cognitoidentity\\3.7.0.3\\awssdk.cognitoidentity.3.7.0.3.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\awssdk.cognitoidentityprovider\\3.7.0.3\\awssdk.cognitoidentityprovider.3.7.0.3.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\awssdk.core\\3.7.0.4\\awssdk.core.3.7.0.4.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\awssdk.securitytoken\\3.7.0.3\\awssdk.securitytoken.3.7.0.3.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.8.0\\microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\subhra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
